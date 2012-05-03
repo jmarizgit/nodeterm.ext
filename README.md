@@ -18,6 +18,7 @@ In the terminal run this:
 >nohup tty.js &
 
 Explanation: 
+
 this will run the tty.js process in background (&) and keep this process alive after you logged out (nohup).
 
 How to load your extension in chrome:
