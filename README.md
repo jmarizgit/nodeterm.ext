@@ -14,7 +14,7 @@ After install NodeJS run this command on your terminal window:
 
 How to load your extension in chrome
 ------------------------------------
-http://code.google.com/chrome/extensions/getstarted.html#load
+>http://code.google.com/chrome/extensions/getstarted.html#load
 
 
 Enjoy your new terminal window on your browser.
