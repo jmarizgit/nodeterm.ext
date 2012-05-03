@@ -1,0 +1,9 @@
+{
+  "name"			: "nodeTerm",
+  "version"			: "1.0",
+  "description"		: "tty.js NodeJS terminal on your browser",
+  "browser_action"	: { "name" : "nodeTerm", "default_icon": "nodeTermIcon.png"},
+  "background_page"	: "background.html",
+  "permissions": ["tabs", "http://*/*", "https://*/*"],
+  "icons"			: 	{ "48" : "nodeTermIcon48.png" }
+}
